@@ -17,6 +17,8 @@ Currently available main trips with their routes are :
 
 There are two carriers : SNCF, Eurostar.
 
+Also, some trips have marked days when they do not travel, marked in the days_off field in the database, and they are then not shown to the user on that selected day.
+
 The user will be shown the trips between each station on the same route.
 
 ![first-image](documentation_images/img_2.png)
