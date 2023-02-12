@@ -73,21 +73,14 @@ footer {
     text-align: center;
 }
 
-/*.from-to-dropdowns{*/
-/*    width: 33%;*/
-/*    justify-content: center;*/
-/*}*/
 .outline-none {
     outline: none
 }
 
-/*.btn.btn-primary {*/
-/*    height: 60px;*/
-/*    font-size: 20px;*/
-/*    padding: 10px*/
-/*}*/
-
-
+.empty-table-msg{
+    text-align: center;
+    font-size: 25px;
+}
 
 .trip-item{
     background-color: white;
